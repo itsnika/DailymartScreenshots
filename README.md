@@ -12,146 +12,146 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 # Large Resolutions:
 
-![](Large Resolution/1.PNG)
+![](Large%20Resolution/1.PNG)
 ***
-![](Large Resolution/2.PNG)
+![](Large%20Resolution/2.PNG)
 ***
-![](Large Resolution/3.PNG)
+![](Large%20Resolution/3.PNG)
 ***
-![](Large Resolution/4.PNG)
+![](Large%20Resolution/4.PNG)
 ***
-![](Large Resolution/5.PNG)
+![](Large%20Resolution/5.PNG)
 ***
-![](Large Resolution/6.PNG)
+![](Large%20Resolution/6.PNG)
 ***
-![](Large Resolution/7.PNG)
+![](Large%20Resolution/7.PNG)
 ***
-![](Large Resolution/8.PNG)
+![](Large%20Resolution/8.PNG)
 ***
-![](Large Resolution/9.PNG)
+![](Large%20Resolution/9.PNG)
 ***
-![](Large Resolution/10.PNG)
+![](Large%20Resolution/10.PNG)
 ***
-![](Large Resolution/11.PNG)
+![](Large%20Resolution/11.PNG)
 ***
-![](Large Resolution/12.PNG)
+![](Large%20Resolution/12.PNG)
 ***
-![](Large Resolution/13.PNG)
+![](Large%20Resolution/13.PNG)
 ***
-![](Large Resolution/14.PNG)
+![](Large%20Resolution/14.PNG)
 ***
-![](Large Resolution/15.PNG)
+![](Large%20Resolution/15.PNG)
 ***
-![](Large Resolution/16.PNG)
+![](Large%20Resolution/16.PNG)
 ***
-![](Large Resolution/17.PNG)
+![](Large%20Resolution/17.PNG)
 ***
-![](Large Resolution/18.PNG)
+![](Large%20Resolution/18.PNG)
 ***
-![](Large Resolution/19.PNG)
+![](Large%20Resolution/19.PNG)
 ***
-![](Large Resolution/20.PNG)
+![](Large%20Resolution/20.PNG)
 ***
-![](Large Resolution/21.PNG)
+![](Large%20Resolution/21.PNG)
 ***
-![](Large Resolution/22.PNG)
+![](Large%20Resolution/22.PNG)
 ***
-![](Large Resolution/23.PNG)
+![](Large%20Resolution/23.PNG)
 ***
-![](Large Resolution/24.PNG)
+![](Large%20Resolution/24.PNG)
 ***
-![](Large Resolution/25.PNG)
+![](Large%20Resolution/25.PNG)
 ***
-![](Large Resolution/26.PNG)
+![](Large%20Resolution/26.PNG)
 ***
-![](Large Resolution/27.PNG)
+![](Large%20Resolution/27.PNG)
 ***
-![](Large Resolution/28.PNG)
+![](Large%20Resolution/28.PNG)
 ***
-![](Large Resolution/29.PNG)
+![](Large%20Resolution/29.PNG)
 ***
-![](Large Resolution/30.PNG)
+![](Large%20Resolution/30.PNG)
 ***
-![](Large Resolution/31.PNG)
+![](Large%20Resolution/31.PNG)
 ***
-![](Large Resolution/32.PNG)
+![](Large%20Resolution/32.PNG)
 ***
-![](Large Resolution/33.PNG)
+![](Large%20Resolution/33.PNG)
 ***
-![](Large Resolution/34.PNG)
+![](Large%20Resolution/34.PNG)
 ***
-![](Large Resolution/35.PNG)
+![](Large%20Resolution/35.PNG)
 ***
-![](Large Resolution/36.PNG)
+![](Large%20Resolution/36.PNG)
 ***
-![](Large Resolution/37.PNG)
+![](Large%20Resolution/37.PNG)
 ***
-![](Large Resolution/38.PNG)
+![](Large%20Resolution/38.PNG)
 ***
-![](Large Resolution/39.PNG)
+![](Large%20Resolution/39.PNG)
 ***
-![](Large Resolution/40.PNG)
+![](Large%20Resolution/40.PNG)
 ***
-![](Large Resolution/41.PNG)
+![](Large%20Resolution/41.PNG)
 ***
-![](Large Resolution/42.PNG)
+![](Large%20Resolution/42.PNG)
 ***
-![](Large Resolution/43.PNG)
+![](Large%20Resolution/43.PNG)
 ***
-![](Large Resolution/44.PNG)
+![](Large%20Resolution/44.PNG)
 ***
-![](Large Resolution/45.PNG)
+![](Large%20Resolution/45.PNG)
 ***
-![](Large Resolution/46.PNG)
+![](Large%20Resolution/46.PNG)
 ***
-![](Large Resolution/47.PNG)
+![](Large%20Resolution/47.PNG)
 ***
 
 # Small Resolutions:
 
-![](Small Resolution/1.PNG)
+![](Small%20Resolution/1.PNG)
 ***
-![](Small Resolution/2.PNG)
+![](Small%20Resolution/2.PNG)
 ***
-![](Small Resolution/3.PNG)
+![](Small%20Resolution/3.PNG)
 ***
-![](Small Resolution/4.PNG)
+![](Small%20Resolution/4.PNG)
 ***
-![](Small Resolution/5.PNG)
+![](Small%20Resolution/5.PNG)
 ***
-![](Small Resolution/6.PNG)
+![](Small%20Resolution/6.PNG)
 ***
-![](Small Resolution/7.PNG)
+![](Small%20Resolution/7.PNG)
 ***
-![](Small Resolution/8.PNG)
+![](Small%20Resolution/8.PNG)
 ***
-![](Small Resolution/9.PNG)
+![](Small%20Resolution/9.PNG)
 ***
-![](Small Resolution/10.PNG)
+![](Small%20Resolution/10.PNG)
 ***
-![](Small Resolution/11.PNG)
+![](Small%20Resolution/11.PNG)
 ***
-![](Small Resolution/12.PNG)
+![](Small%20Resolution/12.PNG)
 ***
-![](Small Resolution/13.PNG)
+![](Small%20Resolution/13.PNG)
 ***
-![](Small Resolution/14.PNG)
+![](Small%20Resolution/14.PNG)
 ***
-![](Small Resolution/15.PNG)
+![](Small%20Resolution/15.PNG)
 ***
-![](Small Resolution/16.PNG)
+![](Small%20Resolution/16.PNG)
 ***
-![](Small Resolution/17.PNG)
+![](Small%20Resolution/17.PNG)
 ***
-![](Small Resolution/18.PNG)
+![](Small%20Resolution/18.PNG)
 ***
-![](Small Resolution/19.PNG)
+![](Small%20Resolution/19.PNG)
 ***
-![](Small Resolution/20.PNG)
+![](Small%20Resolution/20.PNG)
 ***
-![](Small Resolution/21.PNG)
+![](Small%20Resolution/21.PNG)
 ***
-![](Small Resolution/22.PNG)
+![](Small%20Resolution/22.PNG)
 ***
-![](Small Resolution/23.PNG)
+![](Small%20Resolution/23.PNG)
 ***
